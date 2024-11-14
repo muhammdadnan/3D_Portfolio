@@ -5,7 +5,7 @@ import Island from '../models/Island.jsx'
 
 import Sky from '../models/Sky'
 import Bird from '../models/Bird.jsx'
-import Plane from '../models/plane'
+import Plane from '../models/Plane'
 import Homeinfo from '../components/Homeinfo'
 
 const Home = () => {
