@@ -1,12 +1,12 @@
 {
-  "homepage": "https://apnajob.work/adnan3d/",
+  
   "name": "3d-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/app/",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
