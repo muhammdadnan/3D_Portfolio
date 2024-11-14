@@ -4,7 +4,7 @@ import Loader from '../components/Loader'
 import Island from '../models/Island.jsx'
 
 import Sky from '../models/Sky'
-import Bird from '../models/bird'
+import Bird from '../models/bird.jsx'
 import Plane from '../models/plane'
 import Homeinfo from '../components/Homeinfo'
 
